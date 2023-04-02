@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  .available {
+    background-color: green;
+  }
+  
+  .unavailable {
+    background-color: red;
+  }
+  
